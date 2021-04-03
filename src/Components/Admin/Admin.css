@@ -1,0 +1,8 @@
+.adminNavPanel {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+}
+.addbooks {
+  justify-content: center;
+  display: grid;
+}
